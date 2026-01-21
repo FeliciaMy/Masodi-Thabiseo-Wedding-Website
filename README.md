@@ -7,6 +7,7 @@ Webisite link: https://ramabillions.netlify.app/
 <ul>
 <li>Reat</li>
   <li>Tailwind</li>
+  <li>typescript
   <li>Netlify</li>
   <li>Github</li>
 </ul>
